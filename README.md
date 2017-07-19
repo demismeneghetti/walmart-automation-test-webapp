@@ -1,2 +1,2 @@
-# walmart-automation-webapp
+# walmart-automation-test-webapp
 Walmart Automation Test WebApp
